@@ -320,6 +320,44 @@
      <string>TextLabel</string>
     </property>
    </widget>
+   <widget class="QComboBox" name="comboBox">
+    <property name="geometry">
+     <rect>
+      <x>30</x>
+      <y>400</y>
+      <width>211</width>
+      <height>22</height>
+     </rect>
+    </property>
+    <item>
+     <property name="text">
+      <string>1st</string>
+     </property>
+    </item>
+    <item>
+     <property name="text">
+      <string>2nd</string>
+     </property>
+    </item>
+    <item>
+     <property name="text">
+      <string>3nd</string>
+     </property>
+    </item>
+   </widget>
+   <widget class="QPushButton" name="printitem">
+    <property name="geometry">
+     <rect>
+      <x>350</x>
+      <y>400</y>
+      <width>75</width>
+      <height>23</height>
+     </rect>
+    </property>
+    <property name="text">
+     <string>Printitem</string>
+    </property>
+   </widget>
   </widget>
   <widget class="QMenuBar" name="menubar">
    <property name="geometry">
